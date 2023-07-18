@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajkabir234
 - 👀 I’m interested in UI/UX Design, GFX Design and some sort of coding.
-- 🌱 I’m currently learning Figma and C Programing
-- 💞️ I’m looking to collaborate on few projects in C Programming
+- 🌱 I’m curently have intrests on Figma and React. 
+- 💞️ I’m looking to collaborate on few project relevant to my intrests. 
 - 📫 You can reach me via my mail. 
 
 <!---
